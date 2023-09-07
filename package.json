@@ -1,0 +1,24 @@
+{
+  "name": "mhartl-palindrome",
+  "version": "1.0.0",
+  "description": "Palindrome Detector",
+  "main": "FunctionTest.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHuppertz/JavaScriptTest.git"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Jacob Huppertz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHuppertz/JavaScriptTest/issues"
+  },
+  "homepage": "https://github.com/JacobHuppertz/JavaScriptTest#readme"
+}
